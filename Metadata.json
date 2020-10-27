@@ -1,7 +1,7 @@
 {
     "Author": "s_lapointe",
     "ContentSize": 632,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/current-azure-(classic)-subscription-powershell-profile/master/profile.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/current-azure--classic--subscription-powershell-profile/master/profile.ps1",
     "DownloadCount": 987,
     "Id": "Current-Azure-subscription-bb76498a",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "For Azure ASM (Classic) usage only (ARM version\u00a0here) Use this script to customize your PowerShell profile. It will enable you to display what subscription is currently selected when you start a new PowerShell session. It can save you the shame of having to explain why you de",
     "Title": "Current Azure (Classic) subscription - PowerShell profile",
     "UpdatedDate": "2018-9-26T00:00:00",
-    "Url": "https://github.com/azureautomation/current-azure-(classic)-subscription-powershell-profile",
+    "Url": "https://github.com/azureautomation/current-azure--classic--subscription-powershell-profile",
     "UserTags": "Microsoft Azure, Powershell, Utility"
 }
